@@ -1,0 +1,16 @@
+{
+  "name": "estrutura-dados-algoritmos",
+  "version": "1.0.0",
+  "description": "projeto para aprender estrutra de dados e algoritmos em JS",
+  "main": "index.js",
+  "scripts": {
+    "main": "node src/index.js",
+    "hello": "node explicacoes/001-helloworld/01-helloworld.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript;node;dados;algoritmos;estrutura"
+  ],
+  "author": "@alinearaujodev",
+  "license": "MIT"
+}
